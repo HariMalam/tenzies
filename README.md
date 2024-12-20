@@ -28,7 +28,7 @@ This is a simple Tenzies game built with React. The objective of the game is to 
     ```
 2. Navigate to the project directory:
     ```sh
-    cd tenzies-game
+    cd tenzies
     ```
 3. Install the dependencies:
     ```sh
