@@ -24,7 +24,7 @@ This is a simple Tenzies game built with React. The objective of the game is to 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tenzies-game.git
+    git clone https://github.com/HariMalam/tenzies
     ```
 2. Navigate to the project directory:
     ```sh
